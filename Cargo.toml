@@ -1,5 +1,5 @@
 [package]
-name = "color"
+name = "colori"
 description = "A simple and basic color conversion and manipulation library"
 keywords = ["color", "list", "conversion"]
 categories = ["graphics", "gui"]
