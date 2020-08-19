@@ -1,0 +1,10 @@
+[package]
+name = "color"
+description = "A simple and basic color conversion and manipulation library"
+keywords = ["color", "list", "conversion"]
+categories = ["graphics", "gui"]
+version = "0.1.0"
+authors = ["TorbenKoehn <t.koehn@outlook.com>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
