@@ -8,6 +8,10 @@ impl HslColor {
         self.0
     }
 
+    pub fn hue_deg(self) -> f32 {
+        self.0 * 360.0
+    }
+
     pub fn lightness(self) -> f32 {
         self.1
     }
